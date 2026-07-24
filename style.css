@@ -1,8 +1,11 @@
-    h1{
-        color: rgb(230, 55, 201);
-        font-size: 50px;
-    }
-    p 
-    {
-        color: blue;
-    }
+h1{
+    color: rgb(230, 55, 201);
+    font-size: 50px;
+}
+p 
+{
+    color: blue;
+}
+body{
+    background-color: rgb(177, 237, 172);
+}
