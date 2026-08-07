@@ -1,14 +1,13 @@
-h1{
+h1 {
     color: rgb(230, 55, 201);
     font-size: 50px;
 }
-p 
-{
+
+p {
     color: blue;
 }
-body{
+
+body {
     background-color: orange;
-    color: write;
-    
-    
+    color: white;
 }
